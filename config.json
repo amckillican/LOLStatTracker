@@ -1,7 +1,7 @@
 {
-	"APIKEY" : "RGAPI-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
-	"REGION" : "your region here",
-	"SUM_NAME" : "your summoner name here",
+	"APIKEY" : "RGAPI-ff68ed49-6478-40c0-9cb8-113f36081163",
+	"REGION" : "NA1",
+	"SUM_NAME" : "Shad0CS",
 	"NUM_GAMES" : 5,
 	"CHAMPIONID" : 360
 }
