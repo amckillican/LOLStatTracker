@@ -1,0 +1,7 @@
+{
+	"APIKEY" : "RGAPI-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+	"REGION" : "your region here",
+	"SUM_NAME" : "your summoner name here",
+	"NUM_GAMES" : 5,
+	"CHAMPIONID" : 360
+}
