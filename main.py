@@ -31,7 +31,7 @@ except ApiError as err:
         print('this retry-after is handled by default by the RiotWatcher library')
         print('future requests wait until the retry-after time passes')
     elif err.response.status_code == 404:
-        print('Summoner with that ridiculous name not found.')
+        print('Summoner name not found, check the config file.')
     else:
         raise 
     
