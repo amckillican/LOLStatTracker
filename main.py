@@ -1,5 +1,8 @@
 from riotwatcher import LolWatcher, ApiError
 import json
+import os
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # importing the config file
 config_file = open("config.json")
