@@ -116,6 +116,7 @@ for index, matches in enumerate(matchlist):
         match_json_data[matches]["assists"] = assists
         match_json_data[matches]["cs"] = cs
         match_json_data[matches]["total_kills"] = total_kills
+    else: break
 
 # write the match info to the file
 with open("match_data.json", "w") as match_json_file:
